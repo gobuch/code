@@ -39,7 +39,19 @@
     * [03 label mit continue](https://play.golang.org/p/yiIgexQJjt9)
 * 12 Blank Identifier
 * 13 Funktionen
+    * [01 Einfache Funktion](https://play.golang.org/p/f9KgBBaHXO9)
+    * [02 Zwei Rückgabewerte](https://play.golang.org/p/0FsIqQGuHGj)
+    * [03 Benannte Rückgabe](https://play.golang.org/p/XZDZX9vdE7P)
+    * [04 Naked Return](https://play.golang.org/p/7VgbbPFJZLY)
+    * [05 Explizietes Return](https://play.golang.org/p/k_CnqBERSlv)
+    * [06 Variadische Funktion](https://play.golang.org/p/3tEGpuGlUpG)
+    * [07 First Class Citizen](https://play.golang.org/p/GubzYeF0mHJ)
+    * [08 Closures](https://play.golang.org/p/5eyQklNn7ug)
+    * [09 Defer 1](https://play.golang.org/p/6JZsB8V_BEn)
+    * [10 Defer 2](https://play.golang.org/p/x2d1OFs-U3U)
+    * [11 Defer 3](https://play.golang.org/p/jfucn5zmzIR)
 * 14 Methoden
+    * []()
 * 15 Exportiert und Unexportiert
 * 16 Arrays
 * 17 Slices
