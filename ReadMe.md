@@ -66,8 +66,8 @@
 * 18 Slice als Pointer
     * [01 intCopy 1](https://play.golang.org/p/tO6yHevPV9O)
     * [02 intCopy 2](https://play.golang.org/p/ImpQau2WgV_5)
-    * []()
 * 19 UTF8 und Runes
+    * [01 utf8](https://play.golang.org/p/6QF9xFq2pCy)
 
 ## Gopher Abbildungen
 
