@@ -1,0 +1,15 @@
+package main
+
+type {{ .T }}Stack struct {
+    stackSlice []{{ .T }}
+}
+
+func (s *{{ .T }}Stack) Push(in {{ .T }}) {
+    s.stackSlice = append(s.stackSlice, in)
+}
+
+func (s *{{ .T }}Stack) Pop() {{ .T }} {
+    out := s.stackSlice[len(s.stackSlice)-1]
+    s.stackSlice = s.stackSlice[:len(s.stackSlice)-1]
+    return out
+}

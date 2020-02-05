@@ -79,9 +79,18 @@ Innerhalb dieses Projektes gibt es keine Links zum Playground.
 
 ## Projekt gourl
 
+* 01 Grundgerüst
+* 02 Ohne Flag Unterstützung
+* 03 gourl mit Output
+* 04 Ausgabe Header
+* 05 URL Gültigkeit
 
+## Projekt gogen
 
-## Pakete und Module
+* 01 Beispiel Stack
+* 02 gogen
+* 03 Template
+* 04 go generate
 
 ## Gopher Abbildungen
 
