@@ -69,6 +69,12 @@
 * 19 UTF8 und Runes
     * [01 utf8](https://play.golang.org/p/6QF9xFq2pCy)
 
+## Projekt cli
+
+* 01 gocat
+* 02 gomd5
+* 03 gomd5 mit flags
+
 ## Gopher Abbildungen
 
 Alle Gopher Abbildungen wurden von Andreas Schröpfer erstellt und dürfen nur mit schriftlichen Einverständnis weiter verwendet werden. 
