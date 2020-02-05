@@ -71,9 +71,17 @@
 
 ## Projekt cli
 
+Innerhalb dieses Projektes gibt es keine Links zum Playground.
+
 * 01 gocat
 * 02 gomd5
 * 03 gomd5 mit flags
+
+## Projekt gourl
+
+
+
+## Pakete und Module
 
 ## Gopher Abbildungen
 
