@@ -51,11 +51,22 @@
     * [10 Defer 2](https://play.golang.org/p/x2d1OFs-U3U)
     * [11 Defer 3](https://play.golang.org/p/jfucn5zmzIR)
 * 14 Methoden
-    * []()
+    * [01 Rechteck](https://play.golang.org/p/yzSEp0J30ox)
 * 15 Exportiert und Unexportiert
 * 16 Arrays
 * 17 Slices
+    * [01 append 1](https://play.golang.org/p/90w-M9Cu2g2)
+    * [02 append 2](https://play.golang.org/p/TIkdNw6Z_Pq)
+    * [03 composite literal](https://play.golang.org/p/Z_SPnJK04hI)
+    * [04 range](https://play.golang.org/p/9xF9JfgOiM7)
+    * [05 slice a slice](https://play.golang.org/p/ubprLZ4cVrM)
+    * [06 Speicherallokation durch append](https://play.golang.org/p/S8DdXdHTVMQ)
+    * [07 Verwenden von Copy](https://play.golang.org/p/lyw4L0hxpY0)
+    * [08 Copy 2](https://play.golang.org/p/fj6rIZfkaLs)
 * 18 Slice als Pointer
+    * [01 intCopy 1](https://play.golang.org/p/tO6yHevPV9O)
+    * [02 intCopy 2](https://play.golang.org/p/ImpQau2WgV_5)
+    * []()
 * 19 UTF8 und Runes
 
 ## Gopher Abbildungen
