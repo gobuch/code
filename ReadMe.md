@@ -2,7 +2,9 @@
 
 ![Gopher mit Buch](img/GoBuchGopher.png)
 
-## Vorstellung der Syntax
+Alle wichtigen Codebeispiele aus [Go - Das Praxisbuch](https://www.dpunkt.de/buecher/13398/9783864907135-go-%E2%80%93-das-praxisbuch.html). Alle kleineren ausführbaren Beispiele sind auch direkt zum [Go Playground](https://play.golang.org/) verlinkt und können dort direkt ausgeführt werden. Bei den Projekten gibt es für jeden größeren Zwischenschritt einzelne Verzeichnisse. Die Nummerierung der Überschrifften folgt den Kapiteln im Buch. Deshalb gibt es vereinzelt auch Lücken.
+
+## 2 Vorstellung der Syntax
 
 * 02 Variablen
     * [01 Deklaration](https://play.golang.org/p/hzo7dE0NY8M)
@@ -21,24 +23,7 @@
     * [02 Anzahl Obst](https://play.golang.org/p/z2EXuIaszsi)
 * 07 Zusammengesetzte Strukturen
     * [01 Definition und Deklaration](https://play.golang.org/p/DdRHXQVjEkj)
-* 08 `if`
-    * [01 if Abfrage](https://play.golang.org/p/Ns96QhdWVlB)
-* 09 `switch`
-    * [01 Ausdruck nach `switch`](https://play.golang.org/p/xk4fccIau8Z)
-    * [02 `switch` mit Deklaration](https://play.golang.org/p/dpvxssiE0RQ)
-    * [03 Ausdruck bei `case`](https://play.golang.org/p/PvUEphpkUPJ)
-    * [04 `fallthrough`](https://play.golang.org/p/SN_tWI1zyET)
-* 10 `for`
-    * [01 `for` mit Zähler](https://play.golang.org/p/bGjLW5mssr3)
-    * [02 `for` mit Bedingung](https://play.golang.org/p/SyJCtJOosA-)
-    * [03 `for` ohne Bedingung](https://play.golang.org/p/goxKD33zbMN)
-    * [04 `continue`](https://play.golang.org/p/g8oxCWmnu44)
-* 11 Labels und `goto`
-    * [01 Definition](https://play.golang.org/p/ohK3pQwoRAf)
-    * [02 `goto` überspringt Deklaration](https://play.golang.org/p/_tk2mjkeazE)
-    * [03 label mit continue](https://play.golang.org/p/yiIgexQJjt9)
-* 12 Blank Identifier
-* 13 Funktionen
+* 08 Funktionen
     * [01 Einfache Funktion](https://play.golang.org/p/f9KgBBaHXO9)
     * [02 Zwei Rückgabewerte](https://play.golang.org/p/0FsIqQGuHGj)
     * [03 Benannte Rückgabe](https://play.golang.org/p/XZDZX9vdE7P)
@@ -50,11 +35,9 @@
     * [09 Defer 1](https://play.golang.org/p/6JZsB8V_BEn)
     * [10 Defer 2](https://play.golang.org/p/x2d1OFs-U3U)
     * [11 Defer 3](https://play.golang.org/p/jfucn5zmzIR)
-* 14 Methoden
+* 09 Objektorientierung mit Methode
     * [01 Rechteck](https://play.golang.org/p/yzSEp0J30ox)
-* 15 Exportiert und Unexportiert
-* 16 Arrays
-* 17 Slices
+* 12 Slices
     * [01 append 1](https://play.golang.org/p/90w-M9Cu2g2)
     * [02 append 2](https://play.golang.org/p/TIkdNw6Z_Pq)
     * [03 composite literal](https://play.golang.org/p/Z_SPnJK04hI)
@@ -63,21 +46,44 @@
     * [06 Speicherallokation durch append](https://play.golang.org/p/S8DdXdHTVMQ)
     * [07 Verwenden von Copy](https://play.golang.org/p/lyw4L0hxpY0)
     * [08 Copy 2](https://play.golang.org/p/fj6rIZfkaLs)
-* 18 Slice als Pointer
+* 13 Das Slice als Pointer
     * [01 intCopy 1](https://play.golang.org/p/tO6yHevPV9O)
     * [02 intCopy 2](https://play.golang.org/p/ImpQau2WgV_5)
-* 19 UTF8 und Runes
+* 14 Maps
+    * [01 Verwendung einer nil-Map](https://play.golang.org/p/Lhv5LMKsCvN)
+    * [02 Erzeugen einer leeren Map mit make()](https://play.golang.org/p/mScJBUgHRze)
+    * [03 make in Verbindung mit der Kurzdeklaration](https://play.golang.org/p/Pe_7lCTKFCE)
+    * [04 Erzeugen einer Map mit einem Composite Literal](https://play.golang.org/p/Qu1-ReXpgEP)
+* 15 `if`
+    * [01 if Abfrage](https://play.golang.org/p/Ns96QhdWVlB)
+* 16 `switch`
+    * [01 Ausdruck nach `switch`](https://play.golang.org/p/xk4fccIau8Z)
+    * [02 `switch` mit Deklaration](https://play.golang.org/p/dpvxssiE0RQ)
+    * [03 Ausdruck bei `case`](https://play.golang.org/p/PvUEphpkUPJ)
+    * [04 `fallthrough`](https://play.golang.org/p/SN_tWI1zyET)
+* 17 `for`
+    * [01 `for` mit Zähler](https://play.golang.org/p/bGjLW5mssr3)
+    * [02 `for` mit Bedingung](https://play.golang.org/p/SyJCtJOosA-)
+    * [03 `for` ohne Bedingung](https://play.golang.org/p/goxKD33zbMN)
+    * [04 `continue`](https://play.golang.org/p/g8oxCWmnu44)
+* 18 Labels und `goto`
+    * [01 Definition](https://play.golang.org/p/ohK3pQwoRAf)
+    * [02 `goto` überspringt Deklaration](https://play.golang.org/p/_tk2mjkeazE)
+    * [03 label mit continue](https://play.golang.org/p/yiIgexQJjt9)
+* 20 UTF8 und Runes
     * [01 utf8](https://play.golang.org/p/6QF9xFq2pCy)
 
 ## Projekt cli
 
-Innerhalb dieses Projektes gibt es keine Links zum Playground.
+Innerhalb dieses Projektes gibt es keine Links zum Playground. 
 
 * 01 gocat
 * 02 gomd5
 * 03 gomd5 mit flags
 
 ## Projekt gourl
+
+Innerhalb dieses Projektes gibt es keine Links zum Playground.
 
 * 01 Grundgerüst
 * 02 Ohne Flag Unterstützung
