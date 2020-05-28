@@ -6,6 +6,8 @@ Alle wichtigen Codebeispiele aus [Go - Das Praxisbuch](https://www.dpunkt.de/bue
 
 ## 2 Vorstellung der Syntax
 
+Verzeichnis: 02_vorstellung_der_syntax
+
 * 02 Variablen
     * [01 Deklaration](https://play.golang.org/p/hzo7dE0NY8M)
 * 03 Konstanten
@@ -73,7 +75,9 @@ Alle wichtigen Codebeispiele aus [Go - Das Praxisbuch](https://www.dpunkt.de/bue
 * 20 UTF8 und Runes
     * [01 utf8](https://play.golang.org/p/6QF9xFq2pCy)
 
-## Projekt cli
+## 3 Projekt: Command Line Interface
+
+Verzeichnis: 03_projekt_cli
 
 Innerhalb dieses Projektes gibt es keine Links zum Playground. 
 
@@ -81,7 +85,9 @@ Innerhalb dieses Projektes gibt es keine Links zum Playground.
 * 02 gomd5
 * 03 gomd5 mit flags
 
-## Projekt gourl
+## 5 Projekt: Ein einfacher Webloader
+
+Verzeichnis: 05_projekt_gourl
 
 Innerhalb dieses Projektes gibt es keine Links zum Playground.
 
@@ -91,12 +97,41 @@ Innerhalb dieses Projektes gibt es keine Links zum Playground.
 * 04 Ausgabe Header
 * 05 URL Gültigkeit
 
-## Projekt gogen
+## 7 Projekt: Code generieren
+
+Verzeichnis: 07_projekt_gogen
 
 * 01 Beispiel Stack
 * 02 gogen
 * 03 Template
 * 04 go generate
+
+## 8 Concurrency-Grundlagen
+
+Verzeichnis: 08_concurrency_grundlagen
+
+* 03 Goroutinen
+    * [01 Goroutine mit WaitGroup](https://play.golang.org/p/lYM-iaxKjLp)
+    * [02 Goroutine über anonyme Funktion](https://play.golang.org/p/NguvPUBkeO-)
+* 04 Channels
+    * [03 Sender und Empfänger](https://play.golang.org/p/HbbYa0ePUun)
+    * [04 Channel verwenden](https://play.golang.org/p/Hz0yoABgbqx)
+    * [05 Channels als In- und Output](https://play.golang.org/p/XJ_i4Bod7rg)
+    * [06 In Puffer schreiben](https://play.golang.org/p/cDVc0-23BEU)
+    * [07 Aus Puffer lesen](https://play.golang.org/p/1SqQdVZxYBe)
+    * [08 Sender und Empfänger mit einem Buffered Channel](https://play.golang.org/p/EXt0NslCaCg)
+    * [09 gerichteter Channel](https://play.golang.org/p/7wk9vXVpYK3)
+* 05 Einen Channel schließen
+    * [10 Der vergessene Zuhörer](https://play.golang.org/p/zIlhlkNJS6-)
+    * [11 Der benachrichtigte Zuhörer](https://play.golang.org/p/VFVqMTKZpEv)
+    * [12 Auswertung gesendeter Wert](https://play.golang.org/p/hGDqP_syYvU)
+    * [13 Verwendung von close()](https://play.golang.org/p/QZ7HE08Z10z)
+    * [14 range über Channel](https://play.golang.org/p/eEYSTahj2sU)
+* 06 Select
+
+## 9 Concurrency Patterns
+
+Verzeichnis: 09_concurrency_patterns
 
 ## Gopher Abbildungen
 
