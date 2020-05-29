@@ -128,6 +128,13 @@ Verzeichnis: 08_concurrency_grundlagen
     * [13 Verwendung von close()](https://play.golang.org/p/QZ7HE08Z10z)
     * [14 range über Channel](https://play.golang.org/p/eEYSTahj2sU)
 * 06 Select
+    * [01 Ein kleines Ping-Pong-Programm](https://play.golang.org/p/8NIKW5WM36h)
+    * [02 Ausführen von Funktionen in einer case-Anweisung](https://play.golang.org/p/3i6Q6a9scey)
+* 07 Race Conditions und Data Races
+    * [01 Data Race 1](https://play.golang.org/p/4dAMVaOk10h)
+    * [02 Data Race 2](https://play.golang.org/p/x9AjsDeysix) 
+    * [03 Mutex](https://play.golang.org/p/kdIX2WLtbYc)  
+    * [04 Atomic](https://play.golang.org/p/-pZJt8An7uw) 
 
 ## 9 Concurrency Patterns
 
