@@ -158,6 +158,15 @@ Verzeichnis: 09_concurrency_patterns
 * 07 Generator
     * [01 Generator-Funktion](https://play.golang.org/p/RYZ_Iwouzho)
     * [02 Generator mit done-Channel](https://play.golang.org/p/cJjOzuL48xM)
+08 Fan-In und Fan-Out
+    * [01 Fan-Out](https://play.golang.org/p/ZD5_mKTwvc1)
+    * [02 Fan-In](https://play.golang.org/p/xlGfXnNjpFi)
+09 Channel of Channels
+    * [01 Channel of Channels](https://play.golang.org/p/NcqinARqBOW)
+    * [02 Verteilung von Tasks](https://play.golang.org/p/SLYylQJBVVK)
+10 Worker Pool
+    * [01 Beispiel komplett](https://play.golang.org/p/klZNeNEtIsS)
+
 
 ## Gopher Abbildungen
 
