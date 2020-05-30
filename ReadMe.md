@@ -140,6 +140,16 @@ Verzeichnis: 08_concurrency_grundlagen
 
 Verzeichnis: 09_concurrency_patterns
 
+* 02 Goroutinen melden, wenn sie fertig sind
+    * [01 Ergebnis an einen Channel](https://play.golang.org/p/YFKSGEVCztU)
+    * [02 Verwendung des sync.WaitGroup](https://play.golang.org/p/eiOIh9jC8nT)
+    * [03 done-Channel](https://play.golang.org/p/LHFrAdlCcJD)
+    * [04 buffered done-Channel](https://play.golang.org/p/ElaXZF5TKia)
+* 04 Beenden von Goroutinen
+    * [01 Timeout](https://play.golang.org/p/Te--yzkdGUn)
+* 05 Context
+    * [01 Beispiel mit Generator](https://play.golang.org/p/1UaTie24lDN)
+
 ## Gopher Abbildungen
 
 Alle Gopher Abbildungen wurden von Andreas Schröpfer erstellt und dürfen nur mit schriftlichen Einverständnis weiter verwendet werden. 
