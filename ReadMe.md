@@ -145,10 +145,19 @@ Verzeichnis: 09_concurrency_patterns
     * [02 Verwendung des sync.WaitGroup](https://play.golang.org/p/eiOIh9jC8nT)
     * [03 done-Channel](https://play.golang.org/p/LHFrAdlCcJD)
     * [04 buffered done-Channel](https://play.golang.org/p/ElaXZF5TKia)
-* 04 Beenden von Goroutinen
+* 03 Beenden von Goroutinen
     * [01 Timeout](https://play.golang.org/p/Te--yzkdGUn)
-* 05 Context
+* 04 Context
     * [01 Beispiel mit Generator](https://play.golang.org/p/1UaTie24lDN)
+* 05 Prüfung eines geschlossenen Channels
+    * [01 Code blockiert](https://play.golang.org/p/UECsGvOXoDQ)
+    * [02 Prüfen mit select](https://play.golang.org/p/fol7-PSerpj)
+* 06 Pipelines
+    * [01 Channel als Rückgabewert](https://play.golang.org/p/jV8YsVYafEk)
+    * [02 Output-Channel als Input](https://play.golang.org/p/Zw10MHFhAZI)
+* 07 Generator
+    * [01 Generator-Funktion](https://play.golang.org/p/RYZ_Iwouzho)
+    * [02 Generator mit done-Channel](https://play.golang.org/p/cJjOzuL48xM)
 
 ## Gopher Abbildungen
 
