@@ -174,6 +174,15 @@ Verzeichnis: 09_concurrency_patterns
 * 03 goconc (Kapitel 10.5)
 * 04 goconc (Kapitel 10.6)
 
+## 11 Testen und Benchmarks 
+
+* 01 Tests 
+* 02 Subtests 
+* 03 Tabellarische Tests
+* 04 Testen mit Beispielen
+* 05 Benchmarks
+* 06 Subbenchmarks
+
 
 ## Gopher Abbildungen
 
