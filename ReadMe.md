@@ -189,7 +189,7 @@ Verzeichnis: 09_concurrency_patterns
 * 02_imgres (bis Kapitel 12.8)
 * 03_imgres (Kapitel 12.9)
 
-## Interfaces
+## 13 Interfaces
 
 * [01 Ausgabe](https://play.golang.org/p/-J9t5kXPLu3)
 * [02 User](https://play.golang.org/p/_z9-lH14_IG)
@@ -203,6 +203,20 @@ Verzeichnis: 09_concurrency_patterns
 * [10 Type Asserion ok](https://play.golang.org/p/Y8p04lKcZM-)
 * 11_mocking (nur im Repository nicht im Playground)
 
+## 14 Projekt: Kopieren mit Reflection
+
+### Grundlagen
+
+* [01 Typ und Wert](https://play.golang.org/p/KTNDGo0TS2h)
+* [02 CanSet 1](https://play.golang.org/p/yZsS3hslAUH)
+* [03 CanSet 2](https://play.golang.org/p/aZhGVBOhWmk)
+* [04 Verändern von Werten](https://play.golang.org/p/ll7z8MXlMHt)
+* [05 Werte auslesen](https://play.golang.org/p/qSF53jvPuze)
+
+### Projekt
+
+* 06 structfield 1 (bis Kapitel 14.5)
+* 07 structfield 2 (Kapitel 14.6)
 
 ## Gopher Abbildungen
 
