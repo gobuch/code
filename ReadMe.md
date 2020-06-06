@@ -189,6 +189,20 @@ Verzeichnis: 09_concurrency_patterns
 * 02_imgres (bis Kapitel 12.8)
 * 03_imgres (Kapitel 12.9)
 
+## Interfaces
+
+* [01 Ausgabe](https://play.golang.org/p/-J9t5kXPLu3)
+* [02 User](https://play.golang.org/p/_z9-lH14_IG)
+* [03 Rechteck](https://play.golang.org/p/CB_NGReY4VS)
+* [04 Nullwert](https://play.golang.org/p/JIZjp7W-yUQ)
+* [05 Panik](https://play.golang.org/p/GgWh8UjQhv-)
+* [06 nil Zuweisung](https://play.golang.org/p/Ljl7k3uijSQ)
+* [07 Type-Switch](https://play.golang.org/p/4hUGexVDPJP)
+* [08 Type Assertion](https://play.golang.org/p/2iB9SKkeq_G)
+* [09 Type Assertion Panik](https://play.golang.org/p/nq8gj299ZMx)
+* [10 Type Asserion ok](https://play.golang.org/p/Y8p04lKcZM-)
+* 11_mocking (nur im Repository nicht im Playground)
+
 
 ## Gopher Abbildungen
 
