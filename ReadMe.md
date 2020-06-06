@@ -183,6 +183,12 @@ Verzeichnis: 09_concurrency_patterns
 * 05 Benchmarks
 * 06 Subbenchmarks
 
+## 12 Projekt: Image Resizer
+
+* 01_imgres (bis Kapitel 12.6)
+* 02_imgres (bis Kapitel 12.8)
+* 03_imgres (Kapitel 12.9)
+
 
 ## Gopher Abbildungen
 
