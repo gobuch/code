@@ -218,6 +218,12 @@ Verzeichnis: 09_concurrency_patterns
 * 06 structfield 1 (bis Kapitel 14.5)
 * 07 structfield 2 (Kapitel 14.6)
 
+## 15 Fehlerbehandlung
+
+* [01 barbarischer Fehler](https://play.golang.org/p/5_fY1jnQZb8)
+* [02 Prüfung auf Fehlertyp](https://play.golang.org/p/pT8fhUbSK31)
+* [03 keine Panik](https://play.golang.org/p/83wBK1PNVvJ)
+
 ## Gopher Abbildungen
 
 Alle Gopher Abbildungen wurden von Andreas Schröpfer erstellt und dürfen nur mit schriftlichen Einverständnis weiter verwendet werden. 
