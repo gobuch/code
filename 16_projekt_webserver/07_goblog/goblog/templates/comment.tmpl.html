@@ -1,0 +1,15 @@
+{{ define "comment" }}
+{{ range .Comments }}
+<div>Name: {{ .Name }}</div>
+<div>Kommentar: {{ .Comment }}</div>
+<hr>
+{{ end }}
+<form action="/comment/{{.Title}}" method="POST">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required size="10"><br>
+    <label for="comment">Kommentar:</label>
+    <div><textarea name="comment" id="comment" rows="4" cols="70">
+    </textarea></div>
+    <div><input type="submit" value="Kommentieren"></div>
+</form>
+{{ end }}

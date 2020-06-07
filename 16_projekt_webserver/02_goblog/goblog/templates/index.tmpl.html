@@ -1,0 +1,10 @@
+{{ define "content" }}
+<h1>Index</h1>
+
+<ul>
+    {{ range . }}
+    <li><a href="/page/{{.Title}}">{{ .Title }} 
+        ({{.LastChange.Format "02.01.2006 15:04"}})</a></li>
+    {{ end }}
+</ul>
+{{ end }}

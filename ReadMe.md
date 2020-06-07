@@ -224,6 +224,16 @@ Verzeichnis: 09_concurrency_patterns
 * [02 Prüfung auf Fehlertyp](https://play.golang.org/p/pT8fhUbSK31)
 * [03 keine Panik](https://play.golang.org/p/83wBK1PNVvJ)
 
+## 16 Projekt: Ein einfacher Webserver
+
+* 01 goblog (bis Kapitel 16.3)
+* 02 goblog (Kapitel 16.4 - gerenderter Text)
+* 03 goblog (Kapitel 16.4 - gerendertes HTML)
+* 04 goblog (Kapitel 16.5 - Kommentarfunktion)
+* 05 goblog (Kapitel 16.6 - Fileserver)
+* 06 goblog (Kapitel 16.7 - API)
+* 07 goblog (bis Kapitel 16.10a)
+
 ## Gopher Abbildungen
 
 Alle Gopher Abbildungen wurden von Andreas Schröpfer erstellt und dürfen nur mit schriftlichen Einverständnis weiter verwendet werden. 

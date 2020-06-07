@@ -1,0 +1,13 @@
+{{ define "base" }}
+<html>
+{{ template "header" . }}
+
+<body>
+    <div class="container">
+        {{ template "content" . }}
+    </div>
+</body>
+{{ template "footer" . }}
+
+</html>
+{{ end }}
