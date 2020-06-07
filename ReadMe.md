@@ -232,7 +232,7 @@ Verzeichnis: 09_concurrency_patterns
 * 04 goblog (Kapitel 16.5 - Kommentarfunktion)
 * 05 goblog (Kapitel 16.6 - Fileserver)
 * 06 goblog (Kapitel 16.7 - API)
-* 07 goblog (bis Kapitel 16.10a)
+* 07 goblog (bis Kapitel 16.10)
 
 ## Gopher Abbildungen
 
