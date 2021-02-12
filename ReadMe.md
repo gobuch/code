@@ -30,7 +30,7 @@ Verzeichnis: 02_vorstellung_der_syntax
     * [02 Zwei Rückgabewerte](https://play.golang.org/p/0FsIqQGuHGj)
     * [03 Benannte Rückgabe](https://play.golang.org/p/XZDZX9vdE7P)
     * [04 Naked Return](https://play.golang.org/p/7VgbbPFJZLY)
-    * [05 Explizietes Return](https://play.golang.org/p/k_CnqBERSlv)
+    * [05 Explizites Return](https://play.golang.org/p/k_CnqBERSlv)
     * [06 Variadische Funktion](https://play.golang.org/p/3tEGpuGlUpG)
     * [07 First Class Citizen](https://play.golang.org/p/GubzYeF0mHJ)
     * [08 Closures](https://play.golang.org/p/5eyQklNn7ug)
